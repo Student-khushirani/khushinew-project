@@ -1,3 +1,3 @@
 # khushinew-project
-This is my first Git repository
-author - khushi rani
+This is my first Git repository,
+Author - khushi rani
